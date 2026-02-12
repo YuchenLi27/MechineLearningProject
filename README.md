@@ -156,6 +156,3 @@ Evaluation uses natural sampling (no training oversampling).
 
 Switch threshold is selected via sweep; the best threshold is printed by eval_streaming.py.
 
-7) Minimal deliverable set (for submission)
-
-Recommended code files to submit (12 files):
